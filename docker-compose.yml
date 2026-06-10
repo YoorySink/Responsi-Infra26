@@ -75,7 +75,7 @@ services:
       - backend
 
 volumes:
-  database-data:
+  db-data:
 
 networks:
   frontend:
